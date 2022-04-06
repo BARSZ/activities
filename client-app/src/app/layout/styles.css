@@ -4,3 +4,34 @@ body {
 .ui.inverted.top.fixed.menu {
   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(69,9,121,1) 0%, rgba(0,212,255,1) 100%) !important;
 }
+.react-calendar {
+  width: 100%;
+  border: none;
+  box-shadow: 0 1px 2px 0 rgb(34 36 38 / 15%);
+}
+/*home page styles*/
+
+.masthead {
+  display: flex;
+  align-items: center;
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(69,9,121,1) 0%, rgba(0,212,255,1) 100%) !important;
+  height: 100vh;
+}
+
+.masthead .ui.menu .ui.button,
+.ui.menu a.ui.inverted.button {
+  margin-left: 0.5em;
+}
+
+.masthead h1.ui.header {
+  font-size: 4em;
+  font-weight: normal;
+}
+
+.masthead h2 {
+  font-size: 1.7em;
+  font-weight: normal;
+}
+
+/*end home page styles*/
+
