@@ -6,6 +6,7 @@
 appsettings.json
 reactivities.db-shm
 reactivities.db-wal
+.vscode
 # User-specific files
 *.rsuser
 *.suo
